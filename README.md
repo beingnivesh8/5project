@@ -6,7 +6,9 @@ INTRODUCTION:
 
 This project focuses on predicting the resale prices of Singapore flats using HDB data, leveraging the power of machine learning. The data undergoes thorough preprocessing, including handling outliers and encoding categorical features. I experimented with various regression models and selected the best performer. The user-friendly Streamlit application allows users to input features and receive real-time predictions, making it easier to explore and understand the housing market. Deployed on Render, it ensures easy access and smooth performance, empowering users to make informed decisions about flat resale prices in Singapore.
 
-DATA SOURCE: https://beta.data.gov.sg/collections/189/view
+DATA SOURCE: 
+
+https://beta.data.gov.sg/collections/189/view
 
 PACKAGES & ESSENTIAL LIBRARIES:
 
